@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Ejercicio sobre la complejidad de H y el ruido}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Simulación de nubes de puntos con distribución uniforme y gaussiana}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Valoración de la influencia del ruido según la clase de funciones}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Modelos lineales}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Algoritmo Perceptrón}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Ejecución sobre los datos sin ruido simulados en el ejercicio anterior}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Ejecución sobre los datos con ruido simulados en el ejercicio anterior}{6}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Regresión Logística}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Experimento}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Resultados}{7}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Bonus}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Planteamiento del problema de clasificación binaria}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Aplicación de Regresión Lineal y PLA-Pocket}{8}{subsection.3.2}%

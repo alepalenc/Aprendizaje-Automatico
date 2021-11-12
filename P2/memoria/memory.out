@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Ejercicio sobre la complejidad de H y el ruido}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Simulaci\363n de nubes de puntos con distribuci\363n uniforme y gaussiana}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Valoraci\363n de la influencia del ruido seg\372n la clase de funciones}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Modelos lineales}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Algoritmo Perceptr\363n}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Ejecuci\363n sobre los datos sin ruido simulados en el ejercicio anterior}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Ejecuci\363n sobre los datos con ruido simulados en el ejercicio anterior}{subsection.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Regresi\363n Log\355stica}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Experimento}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Resultados}{subsection.2.2}% 10
+\BOOKMARK [1][-]{section.3}{Bonus}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Planteamiento del problema de clasificaci\363n binaria}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Aplicaci\363n de Regresi\363n Lineal y PLA-Pocket}{section.3}% 13
