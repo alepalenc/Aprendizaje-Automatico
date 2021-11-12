@@ -1,1 +1,2 @@
-# Aprendizaje Automático - Asignatura del grado en Ingeniería Informática
+# Aprendizaje Automático
+Asignatura del grado en Ingeniería Informática
